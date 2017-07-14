@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Illuminate\\Log\\": ""
+            "Praveen\\Customelog\\": "src/"
         },
         "files": ["Illuminate/Log/Writer.php", "Illuminate/Log/LogServiceProvider", ""]
     },
