@@ -1,0 +1,29 @@
+{
+    "name": "praveen/customlog",
+    "description": "The custome Log package.",
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/laravel/framework/issues",
+        "source": "https://github.com/laravel/framework"
+    },
+    "authors": [
+        {
+            "name": "Praveen",
+            "email": "bpraveen428@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.4",
+        "illuminate/contracts": "5.4.*",
+        "illuminate/support": "5.4.*",
+        "monolog/monolog": "~1.11"
+    },
+    "autoload": {
+        "psr-4": {
+            "Praveen\\Customlog\\": "src/customlog"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
