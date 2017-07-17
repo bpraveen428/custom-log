@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Praveen\\Customelog\\": "src/"
+            "Praveen\\Customlog\\": "src/customlog"
         }
     },
     "config": {
