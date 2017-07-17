@@ -21,8 +21,7 @@
     "autoload": {
         "psr-4": {
             "Praveen\\Customelog\\": "src/"
-        },
-        "files": ["Illuminate/Log/Writer.php", "Illuminate/Log/LogServiceProvider", ""]
+        }
     },
     "config": {
         "sort-packages": true
